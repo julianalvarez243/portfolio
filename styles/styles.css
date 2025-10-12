@@ -242,7 +242,7 @@ section {
   
 }
 .about-container .right-about .about-item .abt-text .large-text {
-  font-size: 3.5rem;
+  font-size: 2rem;
   font-weight: 700;
   color: var(--color-secondary);
   
@@ -327,19 +327,37 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
   width: 70%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .mysql {
-  width: 65%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .MySQL {
+  width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .cSharp {
-  width: 60%;
+  width: 90%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .NET {
+  width: 80%;
 }
 
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
   width: 40%;
 }
 
+.about-stats .progress-bars .progress-bar .progress-con .progress .ASPNET {
+  width: 60%;
+}
 .about-stats .progress-bars .progress-bar .progress-con .progress .bootstrap {
-  width: 40%;
+  width: 100%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .EF {
+  width: 90%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .sqlserver {
+  width: 90%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .mongodb {
+  width: 70%;
 }
 
 .stat-title {
